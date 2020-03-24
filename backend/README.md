@@ -18,13 +18,13 @@ Using Knex, SQLite3 for devlopment.
 * Contact with the ONG
 
 # Commands
-## Start application
+* Start application
 ```
 yarn start
 npm start
 ```
 
-## Devlopment start
+* Devlopment start
 For that command you have to create a config folder, and inside a env file called dev, something like that: "config/dev.env"
 Inside this file you have to put the enviroment variables
 
